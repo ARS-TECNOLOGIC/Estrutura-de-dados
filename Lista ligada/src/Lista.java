@@ -44,7 +44,7 @@ public class Lista {
     }
 
     public void remover(String novoValor) {
-
+        
     }
     public Elemento get(int posição){
         Elemento atual = this.primeiro;
